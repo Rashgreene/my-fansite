@@ -1,0 +1,37 @@
+#welcome{
+  font-size: 48px;
+  color: rgb(88, 196, 234);
+  body {
+    background-image: url("https://ladygeekgirl.files.wordpress.com/2015/08/stevenuniversetemple.jpg?w=584&h=329");
+    background-color: #ffb1a1;
+    background-size: cover;
+   }
+ 
+  h1 {text-align: center;}
+div {text-align: center;}
+  
+}
+
+.h1 {
+  font-family: "Quantico", sans-serif;
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 20px;
+  font-family: 'Fredericka the Great', 
+}
+
+p {
+  font-size: 19px;
+  font-family: "Quantico", sans-serif;
+}
+
+h2.bold {
+  font-weight: bold;
+  font-family: 'Quantico', sans-serif;
+}
+
+li {
+  font-family: 'Qwigley', cursive;
+}
