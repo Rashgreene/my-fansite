@@ -1,4 +1,30 @@
-#welcome{
-  font-size: 48px;
-  color: rgb(88, 196, 234);
+* {
+  font-family:  'Syne Mono', monospace;
+}
+#welcome {
+  text-align: center;
+  color: red
+}
+.paragraph {
+justify-content: space-evenly;
+text-align: center;
+color:green  
+}
+.info {
+  justify-content: space-between;
+  color:yellow
+}
+.entire {
+  display: flex;
+  flex-direction: column;
+  background: black
+}
+
+.title {
+  text-align: center;
+  color: red
+}
+#pic {
+   display: flex;
+  justify-content: center;
 }
